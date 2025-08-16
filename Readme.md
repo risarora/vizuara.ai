@@ -1,0 +1,6 @@
+- 01 Generative AI Fundamentals [July 2025 Cohort]
+- 02 Build LLM from Scratch [July 2025 Cohort]
+- 03 LLM Production and Deployment [July 2025 Cohort]
+- 04 LLM Capstone Project [July 2025 Cohort]
+- 05 Build SLM from Scratch Workshop [FREE]
+- 06 Vizuara AI Agents 10 Day Live Bootcamp
