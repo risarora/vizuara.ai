@@ -1,7 +1,9 @@
 # LSTM
 
-https://www.perplexity.ai/search/the-objective-of-this-assignme-z2twB8h9QuCd2JF9ZERYRQ
-https://stackoverflow.com/questions/73572812/how-to-select-number-of-hidden-layers-and-number-of-memory-cells-in-lstm
+- https://www.perplexity.ai/search/the-objective-of-this-assignme-z2twB8h9QuCd2JF9ZERYRQ
+- https://stackoverflow.com/questions/73572812/how-to-select-number-of-hidden-layers-and-number-of-memory-cells-in-lstm
+
+- https://chatgpt.com/c/68a76c85-25c8-8322-b82d-a1beef093ac1
 
 # Assignment: Sequence Modelling with LSTM and
 
