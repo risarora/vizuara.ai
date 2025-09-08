@@ -2,6 +2,7 @@
 
 - https://zoom.us/clips/share/E8U2a-EaTrKX4rrGIVVuLg
 - https://www.perplexity.ai/search/rephrase-the-below-topics-for-mdhfliRqSKKF2fuzWhECtw
+- https://chatgpt.com/c/68b9de5e-0f34-8332-b9f5-238b4ea4b85d
 
 ### 1. Benefits of Subword Tokenization : 00:00:00
 

@@ -24,6 +24,6 @@
 - Language modeks are unsupervised multitask learners
 -
 
-![alt text](image.png)
+![alt text](./images/zeroshotvsFewShotlearning.png)
 
 ![alt text](image-1.png)

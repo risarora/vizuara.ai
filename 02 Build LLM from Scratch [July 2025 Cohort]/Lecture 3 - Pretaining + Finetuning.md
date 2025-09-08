@@ -34,14 +34,14 @@ June 2025 - Build LLM from scratch - Lecture 3 - Pretaining + Finetuning
 
 ![alt text](images/emergent_vs_time.png)
 
-![alt text](pretraining.png)
-![alt text](image-2.png)
+![alt text](./images/pretraining.png)
+![alt text](./images/image-2.png)
 
 ### AI vs Machine Learning vs Deep Learning vs Large Language Models vs Generative AI (00:28:13)
 
 - The differences between AI, machine learning, deep learning, large language models, and generative AI.
 - **AI vs DL vs ML vs vs LLM vs GenAI**
-  ![alt text](image-3.png)
+  ![alt text](hierarchy.png)
 
 1. AI - Business APplication
 2. ML - Training with Data
@@ -65,11 +65,11 @@ June 2025 - Build LLM from scratch - Lecture 3 - Pretaining + Finetuning
 - The process of pre-training and fine-tuning a large language model like Chat GPT.
 
 - **Common Crawl data Source**
-  ![alt text](Common_Crawl.png)
+  ![alt text](./images/Common_Crawl.png)
 
 ### Cleaning and Processing Large Data Sets for Language Models (00:59:59)
 
-![alt text](pretraining.png)
+![alt text](./images/pretraining.png)
 
 - The process of cleaning and processing large data sets for pre-training and fine-tuning language models.
 
