@@ -13,6 +13,11 @@
 - Lecture 9 – Token Embedding : 01:28:53
 - Lecture 10 – Position Embedding : 01:15:11
 
+## Language Model Architecture
+
+- Lecture 11 – Attention Mechanism : 01:24:37
+- Lecture 12 – Self attention Query, Key, Value : 01:41:58
+
 ## Assignment
 
 -
