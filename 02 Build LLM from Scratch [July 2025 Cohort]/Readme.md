@@ -1,7 +1,5 @@
 ## Lectures
 
--
--
 - Lecture 1: Introduction to Course : 01:32:04
 - Lecture 2: Introduction to LLM: Next token prediction : 01:36:37
 - Lecture 3 – Pretaining + Finetuning : 01:32:16
