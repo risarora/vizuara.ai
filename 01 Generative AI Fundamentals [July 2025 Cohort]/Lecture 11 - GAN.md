@@ -56,15 +56,6 @@ Here is a merged version with only one heading per topic, each keeping its provi
 
 ### References
 
-[1](https://stackoverflow.com/questions/31508947/how-to-merge-combine-all-header-sections-to-only-one-header-section-in-word-2010)
-[2](https://learn.microsoft.com/en-us/answers/questions/4810745/combine-2-documents-based-on-words-heading-styles)
-[3](https://learn.microsoft.com/en-us/answers/questions/5252075/is-it-possible-to-have-two-heading-1-styles-within)
-[4](https://www.extendoffice.com/documents/word/5413-word-merge-multiple-lines.html)
-[5](https://www.youtube.com/watch?v=2G7lr_7qqkc)
-[6](https://yoast.com/how-to-use-headings-on-your-site/)
-[7](https://forum.affinity.serif.com/index.php?%2Ftopic%2F234410-table-of-contents-combining-multiple-headings%2F)
-[8](https://help.lenses.io/sql/streaming/multiple-topics/)
-[9](https://www.reddit.com/r/MicrosoftWord/comments/10s8s80/making_heading_2_on_the_same_line_as_heading_1_in/)
 [10](https://www.geeksforgeeks.org/deep-learning/generative-adversarial-network-gan/)
 [11](https://www.dhiwise.com/post/generative-adversarial-networks-image-generation)
 [12](https://www.carmatec.com/blog/complete-guide-to-generative-adversarial-network-gan/)
